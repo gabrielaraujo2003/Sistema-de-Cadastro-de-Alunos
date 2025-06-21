@@ -39,7 +39,7 @@ CREATE TABLE aluno (
     'Ensino Técnico','Ensino Superior') NOT NULL,
     observacoes TEXT
 );
-
+```
 
 📌 Observações
 O projeto não utiliza login/autenticação.
